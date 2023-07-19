@@ -6,7 +6,7 @@ const ItemColor = () => {
     <>
       {" "}
       <ListGroup.Item>Nombre de color</ListGroup.Item>
-      <Button>Borrar</Button>
+      <Button type="button">Borrar</Button>
     </>
   );
 };
